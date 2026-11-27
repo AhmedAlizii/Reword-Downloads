@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Reword</title>
+    <item>
+      <title>Reword 1.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <enclosure url="https://raw.githubusercontent.com/AhmedAlizii/Reword-Downloads/main/builds/2.zip" length="1235677" type="application/octet-stream" sparkle:edSignature="fmWbYx/vTZsqkAMb7Ru8sOda/znd/v0FiEGGXt7hs8AMg/aIsOSbiOVODkLwFmjaQQv/AxPKABQVc91TKWv1CQ==" />
+    </item>
+  </channel>
+</rss>
